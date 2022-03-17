@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "Coming Soon",
+  "SCAN_LINK": "https://etherscan.io",
+  "NETWORK": {
+    "NAME": "Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 137
+  },
+  "NFT_NAME": "VTPAF TEST",
+  "SYMBOL": "VTPAF",
+  "MAX_SUPPLY": 4269,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/vinnythepooh",
+  "SHOW_BACKGROUND": true
+}
